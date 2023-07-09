@@ -1,0 +1,5 @@
+* Beat
+[[https://en.wikipedia.org/wiki/Beat_(acoustics)][Beat]] is interference of two soundwaves with close frequencies.
+
+Example program output:
+[[https://github.com/swodig112/physicalsimulations/media/beat.gif]]

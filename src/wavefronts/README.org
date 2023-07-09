@@ -1,0 +1,13 @@
+* Wavefronts
+This project is named wavefronts because it was originally meant to render wavefronts only. But it's progressed to simulate The Doppler effect.
+
+`wavefront1.py` and `wavefront2b.py` work. `wavefront2a.py` doesn't work but I'll leave it here so everyone can take a look. The following gifs are example outputs.
+
+Source moves slower than sound:
+[[https://github.com/swodig112/physicalsimulations/media/wavefront1.gif]]
+
+Source and sound move at the same speed:
+[[https://github.com/swodig112/physicalsimulations/media/wavefront2.gif]]
+
+Source moves faster than sound:
+[[https://github.com/swodig112/physicalsimulations/media/wavefront3.gif]]
