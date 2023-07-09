@@ -1,6 +1,6 @@
 * Physical Simulations
 There are multiple physical simulations in this repository. They're meant for educational purposes.
 
-They're in `src/` and each of them contains a README.
+They're in ~src/~ and each of them contains a README.
 
 Please let me know if there's a bug or something can be done in a better way.
