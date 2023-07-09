@@ -1,5 +1,5 @@
 * Wavefronts
-This project is named wavefronts because it was originally meant to render wavefronts only. But it's progressed to simulate The Doppler effect.
+This project is named wavefronts because it was originally meant to render wavefronts only. But it's progressed to simulate [[https://en.wikipedia.org/wiki/Doppler_effect][The Doppler effect]].
 
 `wavefront1.py` and `wavefront2b.py` work. `wavefront2a.py` doesn't work but I'll leave it here so everyone can take a look. The following gifs are example outputs.
 
