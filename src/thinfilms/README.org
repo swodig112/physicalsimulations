@@ -1,0 +1,24 @@
+* Simulation of Reflection of Monochrome Light from Multi-Layer Thin Films
+I copied this from the report file in the repo named ~emproj.pdf~. For
+more information refer to it:
+
+We know that electromagnetic waves refract when they encounter
+dielectric plates with different dielectric constants, with
+one part being reflected and the other part being transmitted.
+
+Now, if we use several thin dielectric layers, it can be said that
+after successive reflections and transmissions between the layers, we
+will ultimately have one reflected wave resulting from the interaction
+of an infinite number of reflected waves and one transmitted wave
+resulting from the interaction of an infinite number of transmitted
+waves.
+
+For the case of two semi-infinite dielectrics or just a single thin
+layer between them, there is an analytic solution for the reflected
+and transmitted energy. However, for a greater number of layers, the
+only approach is a numerical solution.
+
+In this project, by examining the fundamental relationships, we will
+simulate a system with an arbitrary number of thin layers using Python
+and investigate its applications in constructing various devices.
+
